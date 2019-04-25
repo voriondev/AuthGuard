@@ -1,0 +1,10 @@
+name: AuthGuard
+author: Vorion
+main: fr.vorion.authguard.Main
+description: A two time password auth plugin for Minecraft.
+version: 1.0
+commands:
+  ag:
+    description: Main command for the plugin.
+  code:
+    description: Code command for the plugin.
